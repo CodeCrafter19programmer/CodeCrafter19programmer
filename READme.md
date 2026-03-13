@@ -10,7 +10,7 @@ Passionate Computer Science student with expertise in software development, arti
 - **Frontend Development**: React, Next.js, JavaScript
 - **Backend Development**: Node.js, PHP, Python
 - **Mobile Development**: Flutter
-- **Databases**: MySQL, Firebase
+- **Databases**: MySQL, Firebase, supabase
 - **AI & Engineering**: Prompt Engineering, Context Engineering, AI-Assisted Development
 - **AI Stack**: Cursor AI, GitHub Copilot, Claude Code, Codex, Google Gemini
 - **AI Agent Development**: Building custom AI agents leveraging advanced AI tools for automation and intelligent systems
